@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning the knowledge of mankind.
 - 👯 I’m looking to collaborate on cyber security fun in the rf domain.
 
-Check out this cool open source hardware project that I gave a huge set of new features while learning about embedded software and hardware: [portapack-mayhem](https://github.com/portapack-mayhem/mayhem-firmware)
+Check out this cool open source hardware project which I gifted a huge set of new features while learning about embedded software and hardware: [portapack-mayhem](https://github.com/portapack-mayhem/mayhem-firmware)
 
 <!--
 **bernd-herzog/bernd-herzog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
