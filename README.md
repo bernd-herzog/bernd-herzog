@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on a wireless cloud display that runs without batteries, is easy to install, requires no maintenance and will hopefully last at least 20 years out in the field.
 - 🌱 I’m currently learning the knowledge of mankind.
-- 👯 I’m looking to collaborate on cyber security fun in the rf domain.
+- 👯 I’m looking to collaborate on cyber security research in the rf domain.
 
 Check out this cool open source hardware project which I gifted a huge set of new features while learning about embedded software and hardware: [portapack-mayhem](https://github.com/portapack-mayhem/mayhem-firmware)
 
